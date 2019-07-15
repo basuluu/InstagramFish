@@ -12,8 +12,7 @@ pip install -r requirements.txt
 ```
 
 ### 2. Изменение настроек
-
-#### Укажите ваши логин и пароль для входа
+Перейдите в папку fish_username. Укажите ваши логин и пароль для входа в файле settings.py.
 ```no-highlight
 username = 'login'
 password = 'password'
@@ -21,8 +20,8 @@ password = 'password'
 
 #### Задайте ваши настройки фильтрации аккаунтов, а также вектор сбора аудитории! Подробнее смотреть в файле settings.py
 
-### 3. Запустите скрипт!
-
+### 3. Запуск!
+Перейдите в директорию fish_username используя команду cd path. Затем запустите скрипт командой:
 ```no-highlight
-python instagram.py
+python twist.py
 ```
