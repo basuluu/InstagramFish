@@ -1,5 +1,5 @@
 # Настройки проксей
-proxy = ''
+proxy = 'https://login:password@ip:port'
 
 # Данные для входа в аккаунт
 username = 'username'
